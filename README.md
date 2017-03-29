@@ -1,0 +1,1 @@
+Sample configuration for Git.

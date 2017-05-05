@@ -2,6 +2,10 @@
 [user]
 name = Change Me
 email = change-me@example.com
+username = changeMe
+
+[credential]
+helper = cache --timeout 30000
 
 # Edit commit messages in vim
 [core]
